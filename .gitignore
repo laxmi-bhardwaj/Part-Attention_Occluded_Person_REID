@@ -1,4 +1,8 @@
-# Project data and models
-
 *.pth
 *.zip
+
+# placeholder folders for data and weights
+data/*
+!data/.gitkeep
+weights/*
+!weights/.gitkeep
